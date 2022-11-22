@@ -1,0 +1,7 @@
+.navbar-layout {
+    display: flex;
+    padding: 7px 20px;
+    justify-content: center;
+    background-color:beige;
+    color: #36454F;
+  }

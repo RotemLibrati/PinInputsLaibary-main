@@ -1,0 +1,22 @@
+.pin-input-component-definition {
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+  margin: auto;
+  padding-top: 20px;
+  color:beige;
+}
+
+.pin-input-component-score {
+  display: flex;
+  justify-content: center;
+  color:rgb(38, 196, 196);
+  padding-bottom: 20px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.pin-input-component-button{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}

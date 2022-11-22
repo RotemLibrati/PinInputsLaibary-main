@@ -1,0 +1,16 @@
+.home-page-layout{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: inherit;
+    width: 550px;
+    height: 800px;
+    align-self: center;
+    color:beige;
+}
+.home-page-button{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
